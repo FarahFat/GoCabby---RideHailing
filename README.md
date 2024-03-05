@@ -2,7 +2,7 @@
 GoCabby - Data Cleaning & Transformation, EDA, Advanced Analysis & insights.
 
 Use Case Summary:
-Objective: The primary objective was to perform comprehensive data analysis on the "GoCabby" dataset, a collection of data related to a ride-hailing service. This analysis involved thorough data cleaning, exploratory analysis, and advanced SQL-based analytical queries to derive valuable insights about driver behavior, performance, and operational dynamics.
+Objective: The primary objective was to perform comprehensive data analysis on the "GoCabby" dataset, a collection of data related to a ride-hailing service. This analysis involved thorough data cleaning, exploratory analysis, and advanced SQL-based analytical queries to derive valuable insights about driver behavior, performance, and operational dynamics.  
 
 Data Overview:
 The "GoCabby" dataset initially contained various columns such as 'Driver ID', 'Online Minutes', 'Rides Presented', 'Rides Timeout', 'Rides Rejected', 'Rides Accepted', 'Driver City', 'Sign Up Date', along with several other metrics and rates. However, the dataset also included unnamed and irrelevant columns, indicating the need for data cleaning.
